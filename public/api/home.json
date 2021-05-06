@@ -1,0 +1,32 @@
+{
+  "success" : true,
+  "data": {
+    "topicList": [{
+      "id": 1,
+      "title": "社会热点",
+      "imgUrl": "../../statics/shouye.jpg"
+    },{
+      "id": 2,
+      "title": "手绘",
+      "imgUrl": "../../statics/shouye.jpg"
+    }],
+    "articleList": [{
+      "id": 1,
+      "title": "年的准备",
+      "desc": "年越来越近了，今年因为疫情可能大多数人都不能回家了。我的家虽然在本省，但也是路途遥远，好几百公里呢，我回家的步伐也要放慢，到临近春节时再看...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/4814297-a8bd1037d837bb10.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    },{
+      "id": 2,
+      "title":"打赌",
+      "desc": "弟弟结婚那晚，给了弟妹一个脆生生的耳光，我们大家都在吃饭，听到声音都愣住了，都以为是弟妹打弟弟，后来却听到弟妹呜呜咽咽的在哭。 我爸扔下酒杯，腾...",
+      "imgUrl": "//upload-images.jianshu.io/upload_images/23488806-8ebae730d29122c4.JPG?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+    }],
+    "recommendList": [{
+      "id": 1,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+    },{
+      "id": 2,
+      "imgUrl": "//cdn2.jianshu.io/assets/web/banner-s-daily-e6f6601abc495573ad37f2532468186f.png"
+    }]
+  }
+}
